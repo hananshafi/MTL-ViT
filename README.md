@@ -1,7 +1,7 @@
-# MTL-ViT
+# MTL-ViT: A new multi-task learning framework using Vision Transformers
 (*Note: This is an ongoing project, hence the full code and strategy is not yet open-sourced by the author.)
 
-A new multi-task learning framework using Vision Transformers
+
 
 ![alt text](https://github.com/hananshafi/MTL-ViT/blob/main/assets/network.jpg)
 
